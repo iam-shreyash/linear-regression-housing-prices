@@ -45,10 +45,10 @@ Build a simple **Linear Regression Model** to predict **housing prices** using *
 
 ## 🖼 Visualizations  
 ### 1. Actual vs Predicted Prices  
-![Actual vs Predicted](images/actual_vs_predicted.png)  
+![Actual vs Predicted](actual_vs_predicted.png)  
 
 ### 2. Regression Line (RM vs MEDV)  
-![Regression Line](images/regression_line.png)  
+![Regression Line](regression_line.png)  
 
 ---
 
