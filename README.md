@@ -8,7 +8,7 @@ Build a simple **Linear Regression Model** to predict **housing prices** using *
 ## 📂 Contents  
 - `Housing Data.csv` → dataset used  
 - `linear-regression-housing-prices.py` → Jupyter notebook with code  
-- `images/` → visualizations (scatter plots, regression line, etc.)  
+- `images` → visualizations (scatter plots, regression line, etc.)  
 - `README.md` → project story  
 
 ---
